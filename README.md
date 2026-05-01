@@ -1,4 +1,4 @@
-# BET-105 — Helix angle pipeline
+# BET-105 Assignment
 
 For every Arginine inside an alpha-helix triplet (HHH), this pipeline
 computes the signed 3D angle between adjacent C-α → centroid vectors
