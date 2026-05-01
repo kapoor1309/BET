@@ -1,0 +1,24 @@
+# input data
+pdbs/
+
+# pipeline intermediates
+unzipped_pdbs/
+stride_out/
+contexts/
+.snakemake/
+snakemake.log
+
+# test artifacts
+final/angles_test.tsv
+
+# original code from collaborator (kept locally, not committed)
+BET/
+
+# python
+__pycache__/
+*.pyc
+bet_env/
+
+# OS
+.DS_Store
+Thumbs.db
